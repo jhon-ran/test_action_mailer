@@ -1,5 +1,5 @@
 class UserMailer < ApplicationMailer
-  default from: 'thehackingtesting@yopmail.com'
+  default from: 'jhonnatan.rangel@gmail.com'
 
   #no-reply@monsite.fr 
   
