@@ -1,7 +1,6 @@
 class UserMailer < ApplicationMailer
-  default from: 'jhonnatan.rangel@gmail.com'
+  default from: 'no-reply@monsite.fr'
 
-  #no-reply@monsite.fr 
   
 
   def welcome_email(user)
